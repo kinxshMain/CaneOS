@@ -7,7 +7,7 @@ There are two ways to run the project:
 # Recommended
 
 Click the link:
-https://kinxshmain.github.io/CaneOS/index.html
+https://kinxshmain.github.io/CaneOS/caneOS.html
 
 # Alternatives
 
