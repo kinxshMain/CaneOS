@@ -1,5 +1,11 @@
 # CaneOS
 Welcome to my new project!
-For help, please type help in the console
+For help, please type help in the console running in the project
 
-Run by downloading and running the HTML document
+There are two ways to run the project:
+
+# Recommended
+
+Click the link below:
+
+
